@@ -18,6 +18,7 @@
 ## About me
 
 - I'm passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.
+
 - For now I'm Software Engineer at [WhileOfOne ](https://whileofone.com/) and also persuing Bacholor of Engineering in Computer Science. 
 
 
