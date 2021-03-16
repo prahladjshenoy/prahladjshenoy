@@ -1,6 +1,6 @@
 
 # Hey there :wave:
-<img align="right" alt="GIF" src="https://github.com/prahladjshenoy/prahladjshenoy/blob/main/code.gif?raw=true" width="380" height="250" />
+ <img align="rigth" alt="GIF" src="https://github.com/prahladjshenoy/prahladjshenoy/blob/main/code1.gif?raw=true" width="380" height="250" />
 
 - 👋 Hi, I’m @prahladjshenoy
 - 👀 I’m interested in developing👨‍💻
@@ -9,7 +9,9 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: Prahlad J Shenoy
 - ⚡ Fun fact: I love to cooking🍳 ,fishkeeping 🐠 
- 
+
+ <img align="left" alt="GIF" src="https://github.com/prahladjshenoy/prahladjshenoy/blob/main/code2.gif?raw=true" width="380" height="250" />
+
 ## About me
 
 I'm Prahlad J Shenoy. An Software Engineer at [WhileOfOne ](https://whileofone.com/) and also persuing Bacholor of Engineering in Computer Science. 
