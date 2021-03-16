@@ -21,13 +21,15 @@
 
 - For now I'm Software Engineer at [WhileOfOne ](https://whileofone.com/) and also persuing Bacholor of Engineering in Computer Science. 
 
+<br/>
+<br/>
 
 ## Get in touch :coffee:
 
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/prahlad-j-shenoy).
 - And of course GitHub you're already on (Recursion).
 
-<br />
+
 <br/>
 
 ## Languages and Tools:
