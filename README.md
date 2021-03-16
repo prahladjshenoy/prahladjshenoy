@@ -1,6 +1,6 @@
 
 # Hey there :wave:
- <img align="rigth" alt="GIF" src="https://github.com/prahladjshenoy/prahladjshenoy/blob/main/code1.gif?raw=true" width="380" height="250" />
+ <img align="rigth" alt="GIF" src="https://github.com/prahladjshenoy/prahladjshenoy/blob/main/code1.png?raw=true" width="380" height="250" />
 
 - 👋 Hi, I’m @prahladjshenoy
 - 👀 I’m interested in developing👨‍💻
