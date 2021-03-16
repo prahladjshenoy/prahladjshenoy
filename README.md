@@ -1,8 +1,8 @@
 
-# Hey there :wave:
- <img align="right" alt="GIF" src="https://github.com/prahladjshenoy/prahladjshenoy/blob/main/code1.png?raw=true" width="340" height="250" />
+# Hey there , I'm Prahlad J Shenoy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-- 👋 Hi, I’m @prahladjshenoy
+<img align="right" alt="GIF" src="https://github.com/prahladjshenoy/prahladjshenoy/blob/main/code1.png?raw=true" width="340" height="250" />
+
 - 👀 I’m interested in developing👨‍💻
 - 🔭 I’m currently working on Virtual Cloth System👔
 - 🌱 I’m currently learning TensorflowJS 
@@ -10,19 +10,24 @@
 - 😄 Pronouns: Prahlad J Shenoy
 - ⚡ Fun fact: I love to cooking🍳 ,fishkeeping 🐠 
 
- <img align="left" alt="GIF" src="https://github.com/prahladjshenoy/prahladjshenoy/blob/main/code2.gif?raw=true" width="380" height="250" />
+<br/>
+<br/>
 
+<img align="left" alt="GIF" src="https://github.com/prahladjshenoy/prahladjshenoy/blob/main/code2.gif?raw=true" width="420" height="280" />
+ 
 ## About me
 
-I'm Prahlad J Shenoy. An Software Engineer at [WhileOfOne ](https://whileofone.com/) and also persuing Bacholor of Engineering in Computer Science. 
+- I'm passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.
+- For now I'm Software Engineer at [WhileOfOne ](https://whileofone.com/) and also persuing Bacholor of Engineering in Computer Science. 
 
 
 ## Get in touch :coffee:
 
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/prahlad-j-shenoy)
+- Your future employee on [LinkedIn](https://www.linkedin.com/in/prahlad-j-shenoy).
 - And of course GitHub you're already on (Recursion).
 
 <br />
+<br/>
 
 ## Languages and Tools:
 
@@ -55,7 +60,10 @@ I'm Prahlad J Shenoy. An Software Engineer at [WhileOfOne ](https://whileofone.c
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
 <br />
+
+
 
 <!--
 
