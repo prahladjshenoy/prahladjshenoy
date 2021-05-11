@@ -19,7 +19,7 @@
 
 - I'm passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.
 
-- For now I'm Software Engineer at [WhileOfOne ](https://whileofone.com/) and also persuing Bacholor of Engineering in Computer Science. 
+- For now I'm Software Engineer at [Advantest](https://www.advantest.com/) and also persuing Bacholor of Engineering in Computer Science. 
 
 <br/>
 <br/>
@@ -27,7 +27,7 @@
 ## Get in touch :coffee:
 
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/prahlad-j-shenoy).
-- And of course GitHub you're already on (Recursion).
+- And of-course GitHub you're already on [Recursion](https://github.com/prahladjshenoy).
 
 
 <br/>
