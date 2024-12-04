@@ -6,7 +6,7 @@
 - 👀 I’m interested in developing👨‍💻
 - 🔭 I’m currently working on Virtual Cloth System👔
 - 🌱 I’m currently learning TensorflowJS 
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: Prahlad J Shenoy
 - ⚡ Fun fact: I love to cooking🍳 ,fishkeeping 🐠 
 
